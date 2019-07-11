@@ -15,7 +15,7 @@ import {
   Alert,
   Icon,
   message
-} from "ant-design-vue"
+} from "ant-design-vue";
 import "ant-design-vue/dist/antd.less";
 import App from "./App";
 
@@ -40,5 +40,5 @@ Vue.use(message);
 Vue.config.productionTip = false;
 
 new Vue({
-  render: h => h(App),
-}).$mount('#app')
+  render: (h) => h(App),
+}).$mount("#app");
