@@ -4,6 +4,8 @@ The goal was to learn how parse an HTML page by scrapping torrents on Nyaa.si (<
 
 # This tool uses :
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e419ff6103814666b24b69c2fdf36ed6)](https://app.codacy.com/app/M0NsTeRRR/NyaaFastDL?utm_source=github.com&utm_medium=referral&utm_content=M0NsTeRRR/NyaaFastDL&utm_campaign=Badge_Grade_Dashboard)
+
 * [Vue.js](https://vuejs.org/) - Progressive framework
 * [Ant Design Vue](https://vue.ant.design/) - Component framework for Vue.js
 
