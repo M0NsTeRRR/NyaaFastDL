@@ -1,10 +1,12 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e419ff6103814666b24b69c2fdf36ed6)](https://app.codacy.com/app/M0NsTeRRR/NyaaFastDL?utm_source=github.com&utm_medium=referral&utm_content=M0NsTeRRR/NyaaFastDL&utm_campaign=Badge_Grade_Dashboard)
+![Docker Automated build](https://img.shields.io/docker/cloud/automated/monsterrr/nyaafastdl?style=flat-square)
+![Docker Build Status](https://img.shields.io/docker/cloud/build/monsterrr/nyaafastdl?style=flat-square)
+
 This website will help you to download torrent faster than Nyaa website.
 
 The goal was to learn how parse an HTML page by scrapping torrents on Nyaa.si (<3), you need to ask Nyaa.si before using this project.
 
 # This tool uses :
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e419ff6103814666b24b69c2fdf36ed6)](https://app.codacy.com/app/M0NsTeRRR/NyaaFastDL?utm_source=github.com&utm_medium=referral&utm_content=M0NsTeRRR/NyaaFastDL&utm_campaign=Badge_Grade_Dashboard)
 
 * [Vue.js](https://vuejs.org/) - Progressive framework
 * [Ant Design Vue](https://vue.ant.design/) - Component framework for Vue.js
@@ -25,6 +27,7 @@ In current directory run `npm install`
 In current directory run`npm run serve` and access to the website `http://localhost:8080`
 
 # Production
+## Classic
 You can use your own CORS anywhere (Default herokuapp) by changing the constant line 336
 
 Configure default value of input/select by editing `src/App.vue`
@@ -37,7 +40,6 @@ filterSelected: '0',
 categorySelected: '0_0',
 sortSelected: undefined,
 ~~~~
-## Classic
 
 In current directory run `npm run-script build` and serve `/dist` with a webserver
 
