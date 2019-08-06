@@ -10,5 +10,6 @@ module.exports = {
         javascriptEnabled: true
       }
     }
-  }
+  },
+  productionSourceMap: false
 };

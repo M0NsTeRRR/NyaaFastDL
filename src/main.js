@@ -55,7 +55,7 @@ import {
   message
 } from "ant-design-vue";
 import "ant-design-vue/dist/antd.less";
-import App from "./App";
+import App from "./App.vue";
 
 Vue.prototype.$message = message;
 

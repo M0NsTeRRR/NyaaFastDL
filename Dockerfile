@@ -6,13 +6,13 @@ LABEL maintainer="Ludovic Ortega mastership@hotmail.fr"
 RUN apk update
 
 # copy program
-COPY * /app/NyaaFastDL/
-
-# remove useless file
-RUN rm /app/NyaaFastDL/Dockerfile
+COPY . /app/NyaaFastDL/
 
 # set workdir
 WORKDIR /app/NyaaFastDL/
+
+# remove useless file
+RUN rm Dockerfile .gitignore LICENSE LICENSE.fr README.md
 
 # install dependencies
 RUN npm install

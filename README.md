@@ -1,6 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e419ff6103814666b24b69c2fdf36ed6)](https://app.codacy.com/app/M0NsTeRRR/NyaaFastDL?utm_source=github.com&utm_medium=referral&utm_content=M0NsTeRRR/NyaaFastDL&utm_campaign=Badge_Grade_Dashboard)
-![Docker Automated build](https://img.shields.io/docker/cloud/automated/monsterrr/nyaafastdl?style=flat-square)
-![Docker Build Status](https://img.shields.io/docker/cloud/build/monsterrr/nyaafastdl?style=flat-square)
+[![Docker Automated build](https://img.shields.io/docker/cloud/automated/monsterrr/nyaafastdl?style=flat-square)](https://hub.docker.com/r/monsterrr/nyaafastdl)
+[![Docker Build Status](https://img.shields.io/docker/cloud/build/monsterrr/nyaafastdl?style=flat-square)](https://hub.docker.com/r/monsterrr/nyaafastdl)
 
 This website will help you to download torrent faster than Nyaa website.
 
@@ -28,6 +28,8 @@ In current directory run`npm run serve` and access to the website `http://localh
 
 # Production
 ## Classic
+In current directory run `npm install` 
+
 You can use your own CORS anywhere (Default herokuapp) by changing the constant line 336
 
 Configure default value of input/select by editing `src/App.vue`
