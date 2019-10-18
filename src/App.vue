@@ -143,9 +143,9 @@
         </div>
       </a-form>
     </a-layout-content>
-    <br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br>
     <a-affix :offsetBottom="this.affixFooter">
-      <a-layout-footer style="background: #008080; text-align: center; color: white">
+      <a-layout-footer style="background: #008080; text-align: center; color: white; position: fixed; width: 100%; bottom: 0">
         NyaaFastDL is published under license <strong>CeCILL v2.1</strong> &nbsp;<a href="https://github.com/M0NsTeRRR/NyaaFastDL" target="_blank" style="color: white"><a-icon type="github"/></a><br>
         Copyright © <strong>Ludovic Ortega</strong> 2019<br>
         by Ludovic « -MoNsTeRRR » Ortega &nbsp;<a href="https://twitter.com/MoNsTeRRR_CSGO/" target="_blank" style="color: white"><a-icon type="twitter"/></a>
