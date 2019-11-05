@@ -53,7 +53,7 @@ Use the Dockerfile provided and serve static directory of Dockerfile `/opt/servi
 
 The code is under CeCILL license.
 
-You can find all details here: http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html
+You can find all details here: https://cecill.info/licences/Licence_CeCILL_V2.1-en.html
 
 # Credits
 
