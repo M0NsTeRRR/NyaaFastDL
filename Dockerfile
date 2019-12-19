@@ -1,4 +1,4 @@
-FROM node:13.3.0-alpine as build
+FROM node:13.4.0-alpine as build
 
 LABEL maintainer="Ludovic Ortega mastership@hotmail.fr"
 
