@@ -1,6 +1,4 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e419ff6103814666b24b69c2fdf36ed6)](https://app.codacy.com/app/M0NsTeRRR/NyaaFastDL?utm_source=github.com&utm_medium=referral&utm_content=M0NsTeRRR/NyaaFastDL&utm_campaign=Badge_Grade_Dashboard)
-[![Docker Automated build](https://img.shields.io/docker/cloud/automated/monsterrr/nyaafastdl?style=flat-square)](https://hub.docker.com/r/monsterrr/nyaafastdl)
-[![Docker Build Status](https://img.shields.io/docker/cloud/build/monsterrr/nyaafastdl?style=flat-square)](https://hub.docker.com/r/monsterrr/nyaafastdl)
 
 This website will help you to download torrent faster than Nyaa website.
 
@@ -61,4 +59,4 @@ Copyright © Ludovic Ortega, 2019
 
 Contributor(s):
 
--Ortega Ludovic - mastership@hotmail.fr
+-Ortega Ludovic - ludovic.ortega@adminafk.fr
