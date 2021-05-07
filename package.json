@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ant-design-vue": "^1.7.4",
-    "core-js": "^3.11.3",
+    "core-js": "^3.12.0",
     "node-emoji": "^1.10.0",
     "vue": "^2.6.12"
   },
