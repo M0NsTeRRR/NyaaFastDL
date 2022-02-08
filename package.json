@@ -11,7 +11,7 @@
     "ant-design-vue": "^1.7.8",
     "core-js": "^3.20.3",
     "node-emoji": "^1.11.0",
-    "vue": "^2.6.14"
+    "vue": "^3.2.30"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.15",
